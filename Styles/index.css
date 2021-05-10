@@ -1,0 +1,14 @@
+header p{
+    color: red;
+    justify-content: center;
+    margin: 0;
+    align-items: center;
+    display: flex;
+}
+header{
+    background-image: url("../Assets/fond-header.jpg");
+    height: 10vh;
+}
+body{
+    margin: 0;
+}
